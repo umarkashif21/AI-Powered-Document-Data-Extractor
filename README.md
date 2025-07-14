@@ -1,6 +1,5 @@
 # AI-Powered-Document-Data-Extractor
 
-# AI-Powered Document Data Extractor
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111.0-009688?style=flat-square&logo=fastapi)
